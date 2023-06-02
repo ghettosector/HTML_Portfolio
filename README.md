@@ -1,18 +1,21 @@
+<!DOCTYPE html>
 <html lang = "en">
     <head>
         <meta charset="UTF-8">
         <title>Ozie's Sample Resume</title>
+        <link rel = "stylesheet" href = "./style.css"/>
     </head>
 
     <body>
         
        <h1>Osvaldo Cruz -  Salinas</h1>
-       <img src = "portfolio_image.jpg" height="200" alt = "self portrait">
+       <center><img src = "portfolio_image.jpg" height="200" alt = "self portrait"></center>
        <hr/>
        <h2>Summary</h2>
        <ul>
         <li><h3>About Me:</h3></li>
-            I am a passionate individual whose desire to learn becomes greater after passing day. 
+            I am a passionate individual whose desire to learn becomes greater after each passing day.
+            <p>Currently learning Web Development!!!</p> 
         </ul>
         <hr/>
         <h2>Education</h2>
@@ -40,9 +43,9 @@
         <hr/>
         <h2>Get in Touch with Me</h2>
         <a href = "https://www.instagram.com/ozie.wya/"><img src = "./insta_logo.png" height = "50" alt = "social media logo"/></a>
-        <a href = "https://www.linkedin.com/in/osvaldo-cruz-561aa2267/"><img src = "./linkedin logo.png" height = "50" alt = "social media logo"/></a>
+        <a href = "https://www.linkedin.com/in/osvaldo-cruz-561aa2267/"><img src = "./linkedin logo.png" height = "50" alt = "social media logo"/></a></center>
         <footer>
-            <p>© Osvaldo Cruz - Salinas (2023)</p>
+            <p id = "text-align">Copyright © Osvaldo Cruz - Salinas (2023)</p>
         </footer>
     </body>
 </html>
