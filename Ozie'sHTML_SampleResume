@@ -43,7 +43,7 @@
         <hr/>
         <h2>Get in Touch with Me</h2>
         <a href = "https://www.instagram.com/ozie.wya/"><img src = "./insta_logo.png" height = "50" alt = "social media logo"/></a>
-        <a href = "https://www.linkedin.com/in/osvaldo-cruz-561aa2267/"><img src = "./linkedin logo.png" height = "50" alt = "social media logo"/></a></center>
+        <a href = "https://www.linkedin.com/in/osvaldo-cruz-561aa2267/"><img src = "./linkedin logo.png" height = "50" alt = "social media logo"/></a>
         <footer>
             <p id = "text-align">Copyright © Osvaldo Cruz - Salinas (2023)</p>
         </footer>
