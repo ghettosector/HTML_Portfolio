@@ -1,0 +1,19 @@
+html
+{
+    background-color: beige;
+}
+.text-align, h2, h3
+{
+    font-family: "Bebas Neue";
+    text-align: center;  
+}
+
+#profile_size
+{
+    margin-left: 255px;    
+}
+a .logo-size
+{
+    height: 50px;
+    
+}
